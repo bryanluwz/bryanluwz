@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Bryan.
+
+I'm currently studying ✨ _Computer Engineering_ ✨ in Nanyang Technological University in Singapore 🏫
+
+I like to do some wacky projects for fun 🥴
+
+here's a cat for you my darling 💖
+
+![is there a cat here?](https://cataas.com/cat/gif)
 
 <!--
 **bryanluwz/bryanluwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
