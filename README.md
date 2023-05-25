@@ -4,6 +4,8 @@ I'm currently studying ✨ _Computer Engineering_ ✨ in Nanyang Technological U
 
 I like to do some wacky projects for fun 🥴
 
+Check out my ✨ _[website](https://bryanluwz.github.io)_ ✨
+
 here's a cat for you my darling 💖
 
 ![is there a cat here?](https://cataas.com/cat/gif)
