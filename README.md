@@ -11,8 +11,14 @@ here's a cat for you my darling 💖
 ![is there a cat here?](https://cataas.com/cat/gif)
 
 ### Stats Stats Stats
-![](https://github.com/bryanluwz/github-stats/blob/master/generated/languages.svg)
-![](https://github.com/bryanluwz/github-stats/blob/master/generated/overview.svg)
+
+<a href="https://github.com/bryanluwz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bryanluwz&show_icons=true&hide=stars&hide_rank=true" />
+</a>
+<a href="https://github.com/bryanluwz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanluwz&size_weight=0.5&count_weight=0.5&layout=compact&hide=assembly,batchfile,vhdl,makefile,tcl,shell&langs_count=8" />
+</a>
+
 
 <!--
 **bryanluwz/bryanluwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
