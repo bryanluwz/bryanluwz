@@ -10,6 +10,10 @@ here's a cat for you my darling 💖
 
 ![is there a cat here?](https://cataas.com/cat/gif)
 
+### Stats Stats Stats
+![](https://github.com/bryanluwz/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/bryanluwz/github-stats/blob/master/generated/overview.svg)
+
 <!--
 **bryanluwz/bryanluwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
