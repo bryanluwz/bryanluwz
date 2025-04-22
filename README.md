@@ -6,7 +6,7 @@ I'm graduating soon so I open to work 🏢
 
 I like to do some wacky projects for fun 🥴
 
-Check out my ✨ _[website](https://bryanluwz.github.io)_ ✨
+Check out my ✨ _[website](https://bryanlu.me)_ ✨
 
 here's a cat for you my darling 💖
 
