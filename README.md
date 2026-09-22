@@ -1,8 +1,10 @@
 ### Hi there, I'm Bryan.
 
-I'm a Final Year ✨ _Computer Engineering_ ✨ student in Nanyang Technological University in Singapore 🏫
+~~I'm a Final Year ✨ _Computer Engineering_ ✨ student in Nanyang Technological University in Singapore 🏫~~
 
-I'm graduating soon so I open to work 🏢
+~~I'm graduating soon so I open to work 🏢~~
+
+I'm employed now 🥲
 
 I like to do some wacky projects for fun 🥴
 
